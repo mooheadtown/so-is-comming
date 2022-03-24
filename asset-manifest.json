@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/so-is-comming/static/css/main.073c9b0a.css",
+    "main.js": "/so-is-comming/static/js/main.8186ab28.js",
+    "static/js/787.9a0dfd49.chunk.js": "/so-is-comming/static/js/787.9a0dfd49.chunk.js",
+    "static/media/Ummmeee.png": "/so-is-comming/static/media/Ummmeee.583c18de2fab75a27ac0.png",
+    "index.html": "/so-is-comming/index.html",
+    "main.073c9b0a.css.map": "/so-is-comming/static/css/main.073c9b0a.css.map",
+    "main.8186ab28.js.map": "/so-is-comming/static/js/main.8186ab28.js.map",
+    "787.9a0dfd49.chunk.js.map": "/so-is-comming/static/js/787.9a0dfd49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8186ab28.js"
+  ]
+}
